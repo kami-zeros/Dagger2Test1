@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity implements MainContract.View
      * 1. @Inject 带有此注解的属性或构造方法将参与到依赖注入中，Dagger2会实例化有此注解的类
      * 2. @Module 带有此注解的类，用来提供依赖，里面定义一些用@Provides注解的以provide开头的方法，这些方法就是所提供的依赖，Dagger2会在该类中寻找实例化某个类所需要的依赖。
      * 3. @Component 用来将@Inject和@Module联系起来的桥梁，从@Module中获取依赖并将依赖注入给@Inject
+     * 4. @SingleTon注解，这里说明是全局单例的对象。
      * ┏━━━━━━━━━━━━━━━━┓
      * ┃                                ┃
      * ┗━━━━━━━━━━━━━━━━┛
