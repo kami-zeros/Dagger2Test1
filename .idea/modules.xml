@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dagger2extends/dagger2extends.iml" filepath="$PROJECT_DIR$/dagger2extends/dagger2extends.iml" />
       <module fileurl="file://$PROJECT_DIR$/dagger2quanju/dagger2quanju.iml" filepath="$PROJECT_DIR$/dagger2quanju/dagger2quanju.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dagger2singleton/dagger2singleton.iml" filepath="$PROJECT_DIR$/dagger2singleton/dagger2singleton.iml" />
     </modules>
   </component>
 </project>

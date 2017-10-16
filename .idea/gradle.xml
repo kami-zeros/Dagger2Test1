@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/dagger2extends" />
             <option value="$PROJECT_DIR$/dagger2quanju" />
+            <option value="$PROJECT_DIR$/dagger2singleton" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
