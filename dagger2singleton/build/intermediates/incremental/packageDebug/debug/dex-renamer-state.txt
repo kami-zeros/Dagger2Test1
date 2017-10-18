@@ -1,0 +1,4 @@
+#Wed Oct 18 18:15:20 CST 2017
+base.0=D\:\\MyWork\\zqqtest\\MyDagger2Test\\dagger2singleton\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\MyWork\\zqqtest\\MyDagger2Test\\dagger2singleton\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

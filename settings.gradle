@@ -1,1 +1,1 @@
-include ':app', ':dagger2quanju', ':dagger2extends', ':dagger2singleton'
+include ':app', ':dagger2quanju', ':dagger2extends', ':dagger2singleton', ':dagger2fragment'

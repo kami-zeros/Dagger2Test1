@@ -17,6 +17,10 @@ import retrofit2.Retrofit;
 @Component(modules = ApiModule.class)
 public interface AppComponent {
 
+    /*
+     * 通过以下方法，把此处三个 类 提供出去
+     */
+
     OkHttpClient getClient();
 
     Retrofit getRetrofit();
